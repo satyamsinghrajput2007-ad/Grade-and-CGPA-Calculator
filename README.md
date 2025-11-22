@@ -31,10 +31,9 @@ It reads student marks from an Excel/CSV file, calculates the *grade* for each s
 ---
 
 ## 🧮 CGPA Formula
+ 
+CGPA = 𝛴(Grade Point x Course Credit)/Σ(Course Credit)
 
-\[
-\text{CGPA} = \frac{\sum (\text{Grade Point} \times \text{Credit})}{\text{Total Credits}}
-\]
 
 Example:  
 If a student gets A in a 4-credit course,  
@@ -53,3 +52,9 @@ Weighted = 9 × 4 = 36
 ---
 
 ## 📂 File Structure
+
+1. Input the file path of your marks file.
+2. Run the program
+3. After excution, you will get your file updated with
+   * Grades
+   * CGPA
