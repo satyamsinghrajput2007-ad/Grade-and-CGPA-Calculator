@@ -53,7 +53,8 @@ Weighted = 9 × 4 = 36
 
 ## 📂 File Structure
 
-https://1drv.ms/x/c/3069B649E87ED926/ESjMoCI87npOtOPW-xfFS8YBPtmX17cMsm_LA2b9g7aCyQ?e=eybmaY
+* Input file : https://1drv.ms/x/c/3069B649E87ED926/ESjMoCI87npOtOPW-xfFS8YBPtmX17cMsm_LA2b9g7aCyQ?e=eybmaY
+* Output file : https://1drv.ms/x/c/3069B649E87ED926/EYnGMU0D9TFKg-h5AVRi-xQB6oXhmDQz8Gm9xfwj-RqkmQ?e=TPWqxx
 
 ## Procedure
 
